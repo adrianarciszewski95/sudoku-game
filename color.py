@@ -1,0 +1,10 @@
+black = (0, 0, 0)
+white = (255, 255, 255)
+red = (255, 0, 0)
+blue = (0, 0, 255)
+gray = (128, 128, 128)
+dark_red = (60, 0, 0)
+dark_green = (0, 60, 0)
+dark_blue = (0, 0, 60)
+dark_gray = (60, 60, 60)
+

@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# other
+.idea/
+game_save.txt
+settings.txt
+statistics.db
+
+
+
+
